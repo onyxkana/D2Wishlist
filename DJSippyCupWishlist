@@ -2,6 +2,7 @@
 @description:Un-wishlisted weapons
 
 // Autumn Wind PvE
+//notes: DJSippyCup - PvE Rolls
 // Demolitionist / Adrenaline Junkie
 dimwishlist:item=3110377595&perks=839105230,3230963543,3523296417,11612903
 dimwishlist:item=3110377595&perks=1840239774,3230963543,3523296417,11612903
@@ -25,6 +26,7 @@ dimwishlist:item=3110377595&perks=1392496348,3230963543,2846385770,2896038713
 dimwishlist:item=3110377595&perks=2846385770,2896038713
 
 // Autumn Wind PvP
+//notes: DJSippyCup - PvP Rolls
 // Rangefinder / Headseeker
 dimwishlist:item=3110377595&perks=1840239774,1885400500,2846385770,460017080
 dimwishlist:item=3110377595&perks=839105230,1885400500,2846385770,460017080
