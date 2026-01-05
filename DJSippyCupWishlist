@@ -2,19 +2,38 @@ title:DJSippyCup - Personal
 
 // The Martlet (pve)
 //notes: MW: Reload tags:pve
-dimwishlist:item=877384&perks=1840239774,3230963543,776531651,3824105627,2048641572,1134488199,65797256
-dimwishlist:item=877384&perks=776531651,3824105627,2048641572,1134488199,65797256
+dimwishlist:item=877384&perks=1840239774,3230963543,776531651,2048641572,65797256
+dimwishlist:item=877384&perks=1840239774,3230963543,776531651,1134488199,65797256
+dimwishlist:item=877384&perks=1840239774,3230963543,3824105627,2048641572,65797256
+dimwishlist:item=877384&perks=1840239774,3230963543,3824105627,1134488199,65797256
+
+
+// The Martlet (pve)
+//notes: MW: Reload tags:pve
+dimwishlist:item=877384&perks=776531651,2048641572,65797256
+dimwishlist:item=877384&perks=776531651,1134488199,65797256
+dimwishlist:item=877384&perks=3824105627,2048641572,65797256
+dimwishlist:item=877384&perks=3824105627,1134488199,65797256
 
 
 // The Martlet (pvp)
 //notes: MW: Range or Reload tags:pvp
-dimwishlist:item=877384&perks=3250034553,3142289711,460017080,3619207468,2387244414,1015611457,1673863459
-dimwishlist:item=877384&perks=460017080,3619207468,2387244414,1015611457,1673863459
+dimwishlist:item=877384&perks=3250034553,3142289711,460017080,2387244414,1673863459
+dimwishlist:item=877384&perks=3250034553,3142289711,460017080,1015611457,1673863459
+dimwishlist:item=877384&perks=3250034553,3142289711,3619207468,2387244414,1673863459
+dimwishlist:item=877384&perks=3250034553,3142289711,3619207468,1015611457,1673863459
+
+
+// The Martlet (pvp)
+//notes: MW: Range or Reload tags:pvp
+dimwishlist:item=877384&perks=460017080,2387244414,1673863459
+dimwishlist:item=877384&perks=460017080,1015611457,1673863459
+dimwishlist:item=877384&perks=3619207468,2387244414,1673863459
+dimwishlist:item=877384&perks=3619207468,1015611457,1673863459
 
 
 // Mint Retrograde (pve)
-//notes: MW: Velocity
-Aegis: Rewind | Envious, BnS | Elemental | Master tags:pve
+//notes: MW: Velocity - Aegis: (Rewind, Envious) (BnS, Elemental, Master) tags:pve
 dimwishlist:item=42435996&perks=3525010810,3230963543,3418782618,3078487919,3846229553
 dimwishlist:item=42435996&perks=3525010810,3230963543,3418782618,1089671869,3846229553
 dimwishlist:item=42435996&perks=3525010810,3230963543,3418782618,3081867624,3846229553
@@ -34,8 +53,7 @@ dimwishlist:item=42435996&perks=3525010810,2822142346,3987942396,2396489472,3846
 
 
 // Mint Retrograde (pve)
-//notes: MW: Velocity
-Aegis: Rewind | Envious, BnS | Elemental | Master tags:pve
+//notes: MW: Velocity - Aegis: (Rewind, Envious) (BnS, Elemental, Master) tags:pve
 dimwishlist:item=42435996&perks=3418782618,3078487919,3846229553
 dimwishlist:item=42435996&perks=3418782618,1089671869,3846229553
 dimwishlist:item=42435996&perks=3418782618,3081867624,3846229553
@@ -91,8 +109,9 @@ dimwishlist:item=270610849&perks=1523832109,555281244,3988215619
 
 
 // Refurbished A499 (pve)
-//notes: MW: Handling - Aegis: Gutshot | Snapshot, Aggregate tags:pve
-dimwishlist:item=593808239&perks=839105230,3230963543,1365187766,957782887,3764420437,1309453587
+//notes: MW: Handling - Aegis: (Gutshot, Snapshot) (Aggregate) tags:pve
+dimwishlist:item=593808239&perks=839105230,3230963543,1365187766,3764420437,1309453587
+dimwishlist:item=593808239&perks=839105230,3230963543,957782887,3764420437,1309453587
 
 
 // Refurbished A499 (pvp)
@@ -108,12 +127,13 @@ dimwishlist:item=593808239&perks=2579169598,3513791699,1309453587
 
 
 // Refurbished A499 (pve)
-//notes: MW: Handling - Aegis: Gutshot | Snapshot, Aggregate tags:pve
-dimwishlist:item=593808239&perks=1365187766,957782887,3764420437,1309453587
+//notes: MW: Handling - Aegis: (Gutshot, Snapshot) (Aggregate) tags:pve
+dimwishlist:item=593808239&perks=1365187766,3764420437,1309453587
+dimwishlist:item=593808239&perks=957782887,3764420437,1309453587
 
 
 // A Good Shout (pve)
-//notes: MW: Reload - Aegis: Envious, High Ground tags:pve
+//notes: MW: Reload - Aegis: (Envious) (High Ground) tags:pve
 dimwishlist:item=649691506&perks=1776069409,3603807747,776531651,2319119708,3454102905
 dimwishlist:item=649691506&perks=1776069409,3603807747,776531651,2048641572,3454102905
 dimwishlist:item=649691506&perks=1776069409,3603807747,3987942396,2319119708,3454102905
@@ -121,7 +141,7 @@ dimwishlist:item=649691506&perks=1776069409,3603807747,3987942396,2048641572,345
 
 
 // A Good Shout (pve)
-//notes: MW: Reload - Aegis: Envious, High Ground tags:pve
+//notes: MW: Reload - Aegis: (Envious) (High Ground) tags:pve
 dimwishlist:item=649691506&perks=776531651,2319119708,3454102905
 dimwishlist:item=649691506&perks=776531651,2048641572,3454102905
 dimwishlist:item=649691506&perks=3987942396,2319119708,3454102905
@@ -201,7 +221,7 @@ dimwishlist:item=1288422452&perks=3619207468,3673922083,1673863459
 
 
 // Perfect Paradox (pve)
-//notes: MW: Handling - Aegis: Threat Detector | Field Prep | Pugilist, One-Two | Trench | Vorpal tags:pve
+//notes: MW: Handling - Aegis: (Threat Detector, Field Prep, Pugilist) (One-Two, Trench, Vorpal) tags:pve
 dimwishlist:item=1298672084&perks=4090651448,106909392,4071163871,2679249093,2838996248
 dimwishlist:item=1298672084&perks=4090651448,106909392,4071163871,2360754333,2838996248
 dimwishlist:item=1298672084&perks=4090651448,106909392,4071163871,1546637391,2838996248
@@ -225,7 +245,7 @@ dimwishlist:item=1298672084&perks=1126264488,47981717,2838996248
 
 
 // Perfect Paradox (pve)
-//notes: MW: Handling - Aegis: Threat Detector | Field Prep | Pugilist, One-Two | Trench | Vorpal tags:pve
+//notes: MW: Handling - Aegis: (Threat Detector, Field Prep, Pugilist) (One-Two, Trench, Vorpal) tags:pve
 dimwishlist:item=1298672084&perks=4071163871,2679249093,2838996248
 dimwishlist:item=1298672084&perks=4071163871,2360754333,2838996248
 dimwishlist:item=1298672084&perks=4071163871,1546637391,2838996248
@@ -238,7 +258,7 @@ dimwishlist:item=1298672084&perks=691659142,1546637391,2838996248
 
 
 // Riptide (pve)
-//notes: MW: Reload or Charge Time - Aegis: ALH | Overflow, Controlled Burst tags:pve
+//notes: MW: Reload or Charge Time - Aegis: (ALH, Overflow) (Controlled Burst) tags:pve
 dimwishlist:item=1323862250&perks=1840239774,2680121939,3300816228,2978966579,1050127423
 dimwishlist:item=1323862250&perks=1840239774,2680121939,3300816228,2922950962,1050127423
 dimwishlist:item=1323862250&perks=1840239774,2680121939,3300816228,2594592626,1050127423
@@ -261,7 +281,7 @@ dimwishlist:item=1323862250&perks=1820235745,1194056669,1673863459
 
 
 // Riptide (pve)
-//notes: MW: Reload or Charge Time - Aegis: ALH | Overflow, Controlled Burst tags:pve
+//notes: MW: Reload or Charge Time - Aegis: (ALH, Overflow) (Controlled Burst) tags:pve
 dimwishlist:item=1323862250&perks=3300816228,2978966579,1050127423
 dimwishlist:item=1323862250&perks=3300816228,2922950962,1050127423
 dimwishlist:item=1323862250&perks=3300816228,2594592626,1050127423
@@ -306,7 +326,7 @@ dimwishlist:item=1419158093&perks=3523296417,2922950962,1309453587
 
 
 // Gizmo Weft (pve)
-//notes: MW: Handling - Aegis: Air Trigger | Slideshot | Envious, Bipod | Chain | Aggregate tags:pve
+//notes: MW: Handling - Aegis: (Air Trigger, Slideshot, Envious) (Bipod, Chain, Aggregate) tags:pve
 dimwishlist:item=1572604081&perks=3525010810,2822142346,3987942396,1089671869,934928524
 dimwishlist:item=1572604081&perks=3525010810,2822142346,3987942396,3764420437,934928524
 dimwishlist:item=1572604081&perks=3525010810,2822142346,3987942396,3078487919,934928524
@@ -325,7 +345,7 @@ dimwishlist:item=1572604081&perks=3525010810,2822142346,1421772400,1439600632,93
 
 
 // Gizmo Weft (pve)
-//notes: MW: Handling - Aegis: Air Trigger | Slideshot | Envious, Bipod | Chain | Aggregate tags:pve
+//notes: MW: Handling - Aegis: (Air Trigger, Slideshot, Envious) (Bipod, Chain, Aggregate) tags:pve
 dimwishlist:item=1572604081&perks=3987942396,1089671869,934928524
 dimwishlist:item=1572604081&perks=3987942396,3764420437,934928524
 dimwishlist:item=1572604081&perks=3987942396,3078487919,934928524
@@ -344,7 +364,7 @@ dimwishlist:item=1572604081&perks=1421772400,1439600632,934928524
 
 
 // Motif-41 (pve)
-//notes: MW: Handling - Aegis: ALH, Vorpal | Attrition tags:pve
+//notes: MW: Handling - Aegis: (ALH) (Vorpal, Attrition) tags:pve
 dimwishlist:item=1685533876&perks=3525010810,2822142346,3300816228,1546637391,4008116374
 dimwishlist:item=1685533876&perks=3525010810,2822142346,3300816228,243981275,4008116374
 dimwishlist:item=1685533876&perks=3525010810,2822142346,3300816228,4293542123,4008116374
@@ -360,7 +380,7 @@ dimwishlist:item=1685533876&perks=3525010810,2822142346,3017780555,3081867624,40
 
 
 // Motif-41 (pve)
-//notes: MW: Handling - Aegis: ALH, Vorpal | Attrition tags:pve
+//notes: MW: Handling - Aegis: (ALH) (Vorpal, Attrition) tags:pve
 dimwishlist:item=1685533876&perks=3300816228,1546637391,4008116374
 dimwishlist:item=1685533876&perks=3300816228,243981275,4008116374
 dimwishlist:item=1685533876&perks=3300816228,4293542123,4008116374
@@ -376,7 +396,7 @@ dimwishlist:item=1685533876&perks=3017780555,3081867624,4008116374
 
 
 // Synanceia (pve)
-//notes: MW: Impact - Aegis: Relentless | Attrition | Sharp, Eager | Ambition | Elemental tags:pve
+//notes: MW: Impact - Aegis: (Relentless, Attrition, Sharp) (Eager, Ambition, Elemental) tags:pve
 dimwishlist:item=1823308496&perks=938542991,269888150,1749209109,2077819806,3911709647
 dimwishlist:item=1823308496&perks=938542991,269888150,1749209109,2890807135,3911709647
 dimwishlist:item=1823308496&perks=938542991,269888150,1749209109,1089671869,3911709647
@@ -404,7 +424,7 @@ dimwishlist:item=1823308496&perks=3592538738,2077819806,3911709647
 
 
 // Synanceia (pve)
-//notes: MW: Impact - Aegis: Relentless | Attrition | Sharp, Eager | Ambition | Elemental tags:pve
+//notes: MW: Impact - Aegis: (Relentless, Attrition, Sharp) (Eager, Ambition, Elemental) tags:pve
 dimwishlist:item=1823308496&perks=1749209109,2077819806,3911709647
 dimwishlist:item=1823308496&perks=1749209109,2890807135,3911709647
 dimwishlist:item=1823308496&perks=1749209109,1089671869,3911709647
@@ -512,7 +532,7 @@ dimwishlist:item=2023002233&perks=3824105627,1909124648,3713579091
 
 
 // Riptide (pve)
-//notes: MW: Reload or Charge Time - Aegis: ALH | Overflow, Controlled Burst tags:pve
+//notes: MW: Reload or Charge Time - Aegis: (ALH, Overflow) (Controlled Burst) tags:pve
 dimwishlist:item=2297554989&perks=1840239774,2680121939,3300816228,2594592626,1050127423
 dimwishlist:item=2297554989&perks=1840239774,2680121939,3300816228,2978966579,1050127423
 dimwishlist:item=2297554989&perks=1840239774,2680121939,3300816228,2922950962,1050127423
@@ -535,7 +555,7 @@ dimwishlist:item=2297554989&perks=1645158859,1194056669,1673863459
 
 
 // Riptide (pve)
-//notes: MW: Reload or Charge Time - Aegis: ALH | Overflow, Controlled Burst tags:pve
+//notes: MW: Reload or Charge Time - Aegis: (ALH, Overflow) (Controlled Burst) tags:pve
 dimwishlist:item=2297554989&perks=3300816228,2594592626,1050127423
 dimwishlist:item=2297554989&perks=3300816228,2978966579,1050127423
 dimwishlist:item=2297554989&perks=3300816228,2922950962,1050127423
@@ -548,7 +568,7 @@ dimwishlist:item=2297554989&perks=1820235745,2922950962,1050127423
 
 
 // Permafrost (pve)
-//notes: MW: Handling or Reload - Aegis: Rimestealer | Demolitionist | Blast, Corpsebloom | Reaper | Wellspring tags:pve
+//notes: MW: Handling or Reload - Aegis: (Rimestealer, Demolitionist, Blast) (Corpsebloom, Reaper, Wellspring) tags:pve
 dimwishlist:item=2316331767&perks=3525010810,2822142346,1955165503,2922950962,2120661319
 dimwishlist:item=2316331767&perks=3525010810,2822142346,1955165503,113508675,2120661319
 dimwishlist:item=2316331767&perks=3525010810,2822142346,1955165503,3592538738,2120661319
@@ -561,7 +581,7 @@ dimwishlist:item=2316331767&perks=3525010810,2822142346,1017229899,3592538738,21
 
 
 // Permafrost (pve)
-//notes: MW: Handling or Reload - Aegis: Rimestealer | Demolitionist | Blast, Corpsebloom | Reaper | Wellspring tags:pve
+//notes: MW: Handling or Reload - Aegis: (Rimestealer, Demolitionist, Blast) (Corpsebloom, Reaper, Wellspring) tags:pve
 dimwishlist:item=2316331767&perks=1955165503,2922950962,2120661319
 dimwishlist:item=2316331767&perks=1955165503,113508675,2120661319
 dimwishlist:item=2316331767&perks=1955165503,3592538738,2120661319
@@ -602,7 +622,7 @@ dimwishlist:item=2462965802&perks=2579169598,47981717,1309453587
 
 
 // Uncivil Discourse (pve)
-//notes: MW: Cooling Efficiency - Aegis: Air Trigger | Baubles, PI tags:pve
+//notes: MW: Cooling Efficiency - Aegis: (Air Trigger, Baubles) (PI) tags:pve
 dimwishlist:item=2462965802&perks=1840239774,807993149,1421772400,4104185692,3713579091
 dimwishlist:item=2462965802&perks=1840239774,807993149,1421772400,555281244,3713579091
 dimwishlist:item=2462965802&perks=1840239774,807993149,3932949589,4104185692,3713579091
@@ -610,7 +630,7 @@ dimwishlist:item=2462965802&perks=1840239774,807993149,3932949589,555281244,3713
 
 
 // Uncivil Discourse (pve)
-//notes: MW: Cooling Efficiency - Aegis: Air Trigger | Baubles, PI tags:pve
+//notes: MW: Cooling Efficiency - Aegis: (Air Trigger, Baubles) (PI) tags:pve
 dimwishlist:item=2462965802&perks=1421772400,4104185692,3713579091
 dimwishlist:item=2462965802&perks=1421772400,555281244,3713579091
 dimwishlist:item=2462965802&perks=3932949589,4104185692,3713579091
@@ -778,7 +798,7 @@ dimwishlist:item=2819552809&perks=3932949589,776531651,1309453587
 
 
 // Permafrost (pve)
-//notes: MW: Handling or Reload - Aegis: Rimestealer | Demolitionist | Blast, Corpsebloom | Reaper | Wellspring tags:pve
+//notes: MW: Handling or Reload - Aegis: (Rimestealer, Demolitionist, Blast) (Corpsebloom, Reaper, Wellspring) tags:pve
 dimwishlist:item=2922964484&perks=3525010810,2822142346,1955165503,2922950962,2120661319
 dimwishlist:item=2922964484&perks=3525010810,2822142346,1955165503,113508675,2120661319
 dimwishlist:item=2922964484&perks=3525010810,2822142346,1955165503,3592538738,2120661319
@@ -791,7 +811,7 @@ dimwishlist:item=2922964484&perks=3525010810,2822142346,1017229899,3592538738,21
 
 
 // Permafrost (pve)
-//notes: MW: Handling or Reload - Aegis: Rimestealer | Demolitionist | Blast, Corpsebloom | Reaper | Wellspring tags:pve
+//notes: MW: Handling or Reload - Aegis: (Rimestealer, Demolitionist, Blast) (Corpsebloom, Reaper, Wellspring) tags:pve
 dimwishlist:item=2922964484&perks=1955165503,2922950962,2120661319
 dimwishlist:item=2922964484&perks=1955165503,113508675,2120661319
 dimwishlist:item=2922964484&perks=1955165503,3592538738,2120661319
@@ -878,7 +898,7 @@ dimwishlist:item=3146657389&perks=839105230,2969185026,2579169598,47981717,13094
 
 
 // Uncivil Discourse (pve)
-//notes: MW: Cooling Efficiency - Aegis: Air Trigger | Baubles, PI tags:pve
+//notes: MW: Cooling Efficiency - Aegis: (Air Trigger, Baubles) (PI) tags:pve
 dimwishlist:item=3146657389&perks=1840239774,807993149,1421772400,555281244,1309453587
 dimwishlist:item=3146657389&perks=1840239774,807993149,1421772400,4104185692,1309453587
 dimwishlist:item=3146657389&perks=1840239774,807993149,3932949589,555281244,1309453587
@@ -894,7 +914,7 @@ dimwishlist:item=3146657389&perks=2579169598,47981717,1309453587
 
 
 // Uncivil Discourse (pve)
-//notes: MW: Cooling Efficiency - Aegis: Air Trigger | Baubles, PI tags:pve
+//notes: MW: Cooling Efficiency - Aegis: (Air Trigger, Baubles) (PI) tags:pve
 dimwishlist:item=3146657389&perks=1421772400,555281244,1309453587
 dimwishlist:item=3146657389&perks=1421772400,4104185692,1309453587
 dimwishlist:item=3146657389&perks=3932949589,555281244,1309453587
@@ -912,7 +932,7 @@ dimwishlist:item=3431536253&perks=2579169598,365154968,2250679103
 
 
 // Psi Aeterna IV (pve)
-//notes: MW: Handling - Aegis: Blast | Trickle, Elemental tags:pve
+//notes: MW: Handling - Aegis: (Blast, Trickle) (Elemental) tags:pve
 dimwishlist:item=3556730800&perks=3525010810,1087426260,1017229899,1089671869,3846229553
 dimwishlist:item=3556730800&perks=3525010810,1087426260,1017229899,3966416502,3846229553
 dimwishlist:item=3556730800&perks=3525010810,1087426260,1115162408,1089671869,3846229553
@@ -920,7 +940,7 @@ dimwishlist:item=3556730800&perks=3525010810,1087426260,1115162408,3966416502,38
 
 
 // Psi Aeterna IV (pve)
-//notes: MW: Handling - Aegis: Blast | Trickle, Elemental tags:pve
+//notes: MW: Handling - Aegis: (Blast, Trickle) (Elemental) tags:pve
 dimwishlist:item=3556730800&perks=1017229899,1089671869,3846229553
 dimwishlist:item=3556730800&perks=1017229899,3966416502,3846229553
 dimwishlist:item=3556730800&perks=1115162408,1089671869,3846229553
@@ -938,7 +958,7 @@ dimwishlist:item=3574168117&perks=2579169598,3414324643,1050127423
 
 
 // A Good Shout (pve)
-//notes: MW: Reload - Aegis: Envious, High Ground tags:pve
+//notes: MW: Reload - Aegis: (Envious) (High Ground) tags:pve
 dimwishlist:item=3615748501&perks=1776069409,3603807747,3987942396,2319119708,3454102905
 dimwishlist:item=3615748501&perks=1776069409,3603807747,3987942396,2048641572,3454102905
 dimwishlist:item=3615748501&perks=1776069409,3603807747,776531651,2319119708,3454102905
@@ -946,7 +966,7 @@ dimwishlist:item=3615748501&perks=1776069409,3603807747,776531651,2048641572,345
 
 
 // A Good Shout (pve)
-//notes: MW: Reload - Aegis: Envious, High Ground tags:pve
+//notes: MW: Reload - Aegis: (Envious) (High Ground) tags:pve
 dimwishlist:item=3615748501&perks=3987942396,2319119708,3454102905
 dimwishlist:item=3615748501&perks=3987942396,2048641572,3454102905
 dimwishlist:item=3615748501&perks=776531651,2319119708,3454102905
@@ -954,8 +974,9 @@ dimwishlist:item=3615748501&perks=776531651,2048641572,3454102905
 
 
 // Refurbished A499 (pve)
-//notes: MW: Handling - Aegis: Gutshot | Snapshot, Aggregate tags:pve
-dimwishlist:item=3661051060&perks=839105230,3230963543,1365187766,957782887,3764420437,1309453587
+//notes: MW: Handling - Aegis: (Gutshot, Snapshot) (Aggregate) tags:pve
+dimwishlist:item=3661051060&perks=839105230,3230963543,1365187766,3764420437,1309453587
+dimwishlist:item=3661051060&perks=839105230,3230963543,957782887,3764420437,1309453587
 
 
 // Refurbished A499 (pvp)
@@ -971,8 +992,9 @@ dimwishlist:item=3661051060&perks=2579169598,3513791699,1309453587
 
 
 // Refurbished A499 (pve)
-//notes: MW: Handling - Aegis: Gutshot | Snapshot, Aggregate tags:pve
-dimwishlist:item=3661051060&perks=1365187766,957782887,3764420437,1309453587
+//notes: MW: Handling - Aegis: (Gutshot, Snapshot) (Aggregate) tags:pve
+dimwishlist:item=3661051060&perks=1365187766,3764420437,1309453587
+dimwishlist:item=3661051060&perks=957782887,3764420437,1309453587
 
 
 // Fimbulwinter Stitch (pve)
@@ -1050,7 +1072,7 @@ dimwishlist:item=3984776322&perks=3824105627,960997401,1309453587
 
 
 // Returned Memory (pve)
-//notes: MW: Handling - Aegis: Heal Clip | Impromptu, Incandescent | Redirection tags:pve
+//notes: MW: Handling - Aegis: (Heal Clip, Impromptu) (Incandescent, Redirection) tags:pve
 dimwishlist:item=4049127142&perks=3525010810,3230963543,3017780555,4293542123,3911709647
 dimwishlist:item=4049127142&perks=3525010810,3230963543,3017780555,3201496230,3911709647
 dimwishlist:item=4049127142&perks=3525010810,3230963543,2360347339,4293542123,3911709647
@@ -1076,7 +1098,7 @@ dimwishlist:item=4049127142&perks=951095735,2109543898,3911709647
 
 
 // Returned Memory (pve)
-//notes: MW: Handling - Aegis: Heal Clip | Impromptu, Incandescent | Redirection tags:pve
+//notes: MW: Handling - Aegis: (Heal Clip, Impromptu) (Incandescent, Redirection) tags:pve
 dimwishlist:item=4049127142&perks=3017780555,4293542123,3911709647
 dimwishlist:item=4049127142&perks=3017780555,3201496230,3911709647
 dimwishlist:item=4049127142&perks=2360347339,4293542123,3911709647
@@ -1086,7 +1108,7 @@ dimwishlist:item=4049127142&perks=1556840489,3201496230,3911709647
 
 
 // Gizmo Weft (pve)
-//notes: MW: Handling - Aegis: Air Trigger | Slideshot | Envious, Bipod | Chain | Aggregate tags:pve
+//notes: MW: Handling - Aegis: (Air Trigger, Slideshot, Envious) (Bipod, Chain, Aggregate) tags:pve
 dimwishlist:item=4069880346&perks=3525010810,2822142346,3987942396,1089671869,934928524
 dimwishlist:item=4069880346&perks=3525010810,2822142346,3987942396,3764420437,934928524
 dimwishlist:item=4069880346&perks=3525010810,2822142346,3987942396,3078487919,934928524
@@ -1105,7 +1127,7 @@ dimwishlist:item=4069880346&perks=3525010810,2822142346,1421772400,1439600632,93
 
 
 // Gizmo Weft (pve)
-//notes: MW: Handling - Aegis: Air Trigger | Slideshot | Envious, Bipod | Chain | Aggregate tags:pve
+//notes: MW: Handling - Aegis: (Air Trigger, Slideshot, Envious) (Bipod, Chain, Aggregate) tags:pve
 dimwishlist:item=4069880346&perks=3987942396,1089671869,934928524
 dimwishlist:item=4069880346&perks=3987942396,3764420437,934928524
 dimwishlist:item=4069880346&perks=3987942396,3078487919,934928524
